@@ -71,7 +71,8 @@ The `vannai.ipynb` notebook provides an interactive environment to analyze the r
 
 1.  **Register for a Vanna.ai API Key:**
     Before using the notebook, you need to get a free API key from Vanna.ai.
-    - Go to [https://app.vanna.ai/register](https://app.vanna.ai/register) to sign up.
+    - Go to [https://vanna.ai/account/login](https://vanna.ai/account/login) to sign up and create the model.
+    ![alt text](image.png)
     - You will need this for the Jupyter notebook.
 
 

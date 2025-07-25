@@ -10,3 +10,5 @@ services:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=admin
       - POSTGRES_DB=mydb
+    networks:
+      - default
