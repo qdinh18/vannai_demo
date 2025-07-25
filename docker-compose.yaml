@@ -1,0 +1,12 @@
+services:
+  postgres:
+    build:
+      context: .
+      dockerfile: ./postgres/Dockerfile
+    container_name: postgresql
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=mydb
