@@ -24,8 +24,8 @@ This project demonstrates how to set up a PostgreSQL database with real estate d
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/qdinh18/vannai_demo
+    cd vannai_demo
     ```
 
 2.  **Build and start the PostgreSQL container:**
